@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "cover_img": "./img/post1.avif",
+      "title": "Luxury Hotel A",
+      "room_size": "300 sqft",
+        "price": 150,
+        "date": "2023-09-15",
+        "details": "Spacious room with a comfortable single bed.",
+        "hotel_view_img": ["room1_view1.jpg", "room1_view2.jpg"]
+      
+    },
+    {
+      "id": 2,
+      "cover_img": "./img/post2.avif",
+      "title": "Comfort Inn B",
+      "room_size": "250 sqft",
+     
+        "price": 120,
+        "date": "2023-09-16",
+        "details": "Cozy single room for a relaxing stay.",
+        "hotel_view_img": ["room2_view1.jpg", "room2_view2.jpg"]
+    },
+    {
+      "id": 3,
+      "cover_img": "./img/post3.jpg",
+      "title": "Elegant Suites C",
+      "room_size": "400 sqft",
+        "price": 180,
+        "date": "2023-09-17",
+        "details": "Stylish single room with modern amenities.",
+        "hotel_view_img": ["room3_view1.jpg", "room3_view2.jpg"]
+    },
+    {
+      "id": 4,
+      "cover_img": "./img/post4.jpg",
+      "title": "Seaside Resort D",
+      "room_size": "350 sqft",
+      
+        "price": 200,
+        "date": "2023-09-18",
+        "details": "Single room with a view of the ocean.",
+        "hotel_view_img": ["room4_view1.jpg", "room4_view2.jpg"]
+      
+    },
+    {
+      "id": 5,
+      "cover_img": "./img/post5.avif",
+      "title": "Mountain Lodge E",
+      "room_size": "280 sqft",
+        "price": 160,
+        "date": "2023-09-19",
+        "details": "Cozy room with a mountain view.",
+        "hotel_view_img": ["room5_view1.jpg", "room5_view2.jpg"]
+      
+    },
+    {
+      "id": 6,
+      "cover_img": "./img/post6.avif",
+      "title": "Riverside Retreat F",
+      "room_size": "320 sqft",
+        "price": 170,
+        "date": "2023-09-20",
+        "details": "Single room with a view of the river.",
+        "hotel_view_img": ["room6_view1.jpg", "room6_view2.jpg"]
+      
+    },
+    {
+      "id": 7,
+      "cover_img": "./img/post7.avif",
+      "title": "Urban Oasis G",
+      "room_size": "290 sqft",
+        "price": 140,
+        "date": "2023-09-21",
+        "details": "Modern single room in the heart of the city.",
+        "hotel_view_img": ["room7_view1.jpg", "room7_view2.jpg"]
+      
+    },
+    {
+      "id": 8,
+      "cover_img": "./img/post8.avif",
+      "title": "Historic Mansion H",
+      "room_size": "450 sqft",
+        "price": 250,
+        "date": "2023-09-22",
+        "details": "Single room in a beautifully restored historic mansion.",
+        "hotel_view_img": ["room8_view1.jpg", "room8_view2.jpg"]
+      
+    }
+  ]
